@@ -1,0 +1,30 @@
+case 1
+c=_g_a/_cg_g/*
+cg=_a_ct_a++
+g=_a_a/_ct*
+ct=_a_a*
+a=2/2
+case 2
+t=_ct_ta*_ta*
+ta=_c_a_a**
+c=_ct_a+
+ct=_a_a+_a_a*+
+a=2/4
+case 3
+c=_t_cg_cg//
+t=_g_g+_cg_g**
+cg=_g_ct/
+ct=_g_g/
+g=6/71
+case 4
+g=_tt_tt_gt+*
+t=_gt_tt*_tt/
+gt=_tt_tt+_a_a*/
+a=_tt_tt_tt/*
+tt=2/62
+case 5
+c=_cc_t*
+ca=_a_a/_a/
+a=_cc_cc_t*+
+cc=_t_t_t/*
+t=76/13
